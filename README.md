@@ -1,4 +1,4 @@
-# ink2pix 🎨✨
+# ink2pix (GDG Brooklyn Hackthon)🎨✨
 
 > **Sketch it, ship it** — A real-time scratch pad that turns rough drawings, sketches, and annotated photos into finished artwork and video animations using Google Gemini models.
 
